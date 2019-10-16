@@ -1,5 +1,5 @@
-track icSHAPE_ch_plus_strand
+track icSHAPE_ch_plu_strand
 bigDataUrl hek_ch_vivo_positive_hg19.bigWig
-shortLabel icSHAPE_ch_plus_strand
+shortLabel icSHAPE_ch_plu_strand
 longLabel icSHAPE in Hek chromatin  plus strand
 type bigWig
