@@ -1,5 +1,5 @@
-hub panhandles_removed_CDS
-shortLabel panhandles_removed_CDS
-longLabel panhandles in always intronic regions wrt CDS
+hub cancer_and_probing
+shortLabel cancer_and_probing
+longLabel ICGC deltaPSI and icSHAPE probing
 genomesFile genomes.txt 
 email svetlana.kalmykova@skoltech.ru
