@@ -4,11 +4,13 @@ bigDataUrl icSHAPE/hek_ch_vivo_positive_hg19.BigWig
 shortLabel icSHAPE_ch_plus
 longLabel icSHAPE in Hek chromatin plus strand
 color 255,0,0
+visibility full
 type bigWig
 
 track icSHAPE_ch_min
 viewLimits 0:1
 color 0,0,255
+visibility full
 bigDataUrl icSHAPE/hek_ch_vivo_negative_hg19.BigWig
 shortLabel icSHAPE_ch_min
 longLabel icSHAPE in Hek chromatin minus strand
@@ -18,6 +20,7 @@ type bigWig
 track kidney_site
 type bigBed 9 +
 itemRgb on
+visibility pack
 bigDataUrl ICGC/ipsa_kidney_site.bb
 shortLabel kidney_site
 longLabel kidney_site
@@ -25,6 +28,7 @@ longLabel kidney_site
 track kidney_exon
 type bigBed 9 +
 itemRgb on
+visibility pack
 bigDataUrl ICGC/ipsa_kidney_exon.bb
 shortLabel kidney_exon
 longLabel kidney_exon
@@ -32,6 +36,7 @@ longLabel kidney_exon
 track kidney_intron
 type bigBed 9 +
 itemRgb on
+visibility pack
 bigDataUrl ICGC/ipsa_kidney_intron.bb
 shortLabel kidney_intron
 longLabel kidney_intron
@@ -39,6 +44,7 @@ longLabel kidney_intron
 track liver_site
 type bigBed 9 +
 itemRgb on
+visibility pack
 bigDataUrl ICGC/ipsa_liver_site.bb
 shortLabel liver_site
 longLabel liver_site
@@ -46,6 +52,7 @@ longLabel liver_site
 track liver_exon
 type bigBed 9 +
 itemRgb on
+visibility pack
 bigDataUrl ICGC/ipsa_liver_exon.bb
 shortLabel liver_exon
 longLabel liver_exon
@@ -53,6 +60,7 @@ longLabel liver_exon
 track liver_intron
 type bigBed 9 +
 itemRgb on
+visibility pack
 bigDataUrl ICGC/ipsa_liver_intron.bb
 shortLabel liver_intron
 longLabel liver_intron
