@@ -1,6 +1,13 @@
-track icSHAPE_ch_pluss_strand
+track icSHAPE_ch_plus_strand
 viewLimits 0:1
 bigDataUrl hek_ch_vivo_positive_hg19.BigWig
 shortLabel icSHAPE_ch_plus_strand
 longLabel icSHAPE in Hek chromatin  plus strand
+type bigWig
+
+track icSHAPE_ch_min_strand
+viewLimits 0:1
+bigDataUrl hek_ch_vivo_negative_hg19.BigWig
+shortLabel icSHAPE_ch_min_strand
+longLabel icSHAPE in Hek chromatin  minus strand
 type bigWig
