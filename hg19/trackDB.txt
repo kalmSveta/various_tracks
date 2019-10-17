@@ -18,41 +18,41 @@ type bigWig
 track kidney_site
 type bigBed 9 +
 itemRgb on
-bigDataUrl ICGC/kidney_site.bb
+bigDataUrl ICGC/ipsa_kidney_site.bb
 shortLabel kidney_site
 longLabel kidney_site
 
 track kidney_exon
 type bigBed 9 +
 itemRgb on
-bigDataUrl ICGC/kidney_exon.bb
+bigDataUrl ICGC/ipsa_kidney_exon.bb
 shortLabel kidney_exon
 longLabel kidney_exon
 
 track kidney_intron
 type bigBed 9 +
 itemRgb on
-bigDataUrl ICGC/kidney_intron.bb
+bigDataUrl ICGC/ipsa_kidney_intron.bb
 shortLabel kidney_intron
 longLabel kidney_intron
 
 track liver_site
 type bigBed 9 +
 itemRgb on
-bigDataUrl ICGC/liver_site.bb
+bigDataUrl ICGC/ipsa_liver_site.bb
 shortLabel liver_site
 longLabel liver_site
 
 track liver_exon
 type bigBed 9 +
 itemRgb on
-bigDataUrl ICGC/liver_exon.bb
+bigDataUrl ICGC/ipsa_liver_exon.bb
 shortLabel liver_exon
 longLabel liver_exon
 
 track liver_intron
 type bigBed 9 +
 itemRgb on
-bigDataUrl ICGC/liver_intron.bb
+bigDataUrl ICGC/ipsa_liver_intron.bb
 shortLabel liver_intron
 longLabel liver_intron
