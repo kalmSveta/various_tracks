@@ -22,14 +22,12 @@ bigDataUrl kidney_site.bb
 shortLabel kidney_site
 longLabel kidney_site
 
-
 track kidney_exon
 type bigBed 9 +
 itemRgb on
 bigDataUrl kidney_exon.bb
 shortLabel kidney_exon
 longLabel kidney_exon
-
 
 track kidney_intron
 type bigBed 9 +
@@ -38,7 +36,6 @@ bigDataUrl kidney_intron.bb
 shortLabel kidney_intron
 longLabel kidney_intron
 
-
 track liver_site
 type bigBed 9 +
 itemRgb on
@@ -46,14 +43,12 @@ bigDataUrl liver_site.bb
 shortLabel liver_site
 longLabel liver_site
 
-
 track liver_exon
 type bigBed 9 +
 itemRgb on
 bigDataUrl liver_exon.bb
 shortLabel liver_exon
 longLabel liver_exon
-
 
 track liver_intron
 type bigBed 9 +
